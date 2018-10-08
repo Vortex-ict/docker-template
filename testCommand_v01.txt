@@ -1,0 +1,31 @@
+{
+"K": 1,
+"nodes": [1, 2, 3, 4, 5, 6],
+"nodesP": [0, 0, 1, 1, 0, 0],
+"nodesM": [2, 3],
+"edgesS": [1, 1, 2, 2, 3, 3, 4, 4, 6],
+"edgesD": [2, 3, 3, 5, 4, 6, 3, 6, 5],
+"edgesW": [2, 7, 7, 2, 1, 1, 1, 1, 7],
+"edgesF": [0, 0, 0, 0, 1, 0, 0, 1, 0],
+"source": 1,
+"destination": 5,
+"minP": -1,
+"maxP": -1,
+"minF": -1,
+"maxF": -1,
+"Excluded": [
+        {
+            "ExcludedItem": [
+                0,
+                3
+            ]
+        },
+        {
+            "ExcludedItem": [
+                1,
+                5,
+                8
+            ]
+        }
+    ]
+}
